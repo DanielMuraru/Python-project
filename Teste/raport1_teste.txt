@@ -1,0 +1,1 @@
+Id student: 1, Nume:Andrei Dragos, Nota: 10.0

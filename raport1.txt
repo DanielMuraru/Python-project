@@ -1,0 +1,1 @@
+Id student: 1, Nume:Marius, Media: 10.0

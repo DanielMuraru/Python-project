@@ -1,0 +1,3 @@
+(2, 1)  calculati  12/2/2222
+(1, 3)  se face cmmdc  1/4/2000
+(3, 3)  aflati patratul magic  12/2/2000
